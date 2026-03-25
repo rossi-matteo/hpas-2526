@@ -1,0 +1,33 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "Autonomous Ship",
+    "owner": "",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "mattia.belfiore@mail.polimi.it"
+      },
+      {
+        "name": "gabriele.benedetti@mail.polimi.it"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
